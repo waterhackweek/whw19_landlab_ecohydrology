@@ -1,13 +1,13 @@
-# Project Title: Studying the influence of climate on woody plant encroachment in semiarid areas of Western US.
+## Project Title: Studying the influence of climate on woody plant encroachment in semiarid areas of Western US.
 
-# Collaborators on this Project:
+## Collaborators on this Project:
 •	Project Lead - Erkan Istanbulluoglu
 •	Data Science Lead - Sai Nudurupati
 
-# The Problem:
+## The Problem:
 Semiarid ecosystems of the Western US have experienced a major change from grasslands to woody plants in the last 150 years. These include shifts in shrub dominance in the Southwest and changes in grasslands to western juniper in the Northwest US. A number of hypotheses proposed have related woody plant encroachment to climate change, introduced herbivore grazing, changes in grassland fire frequency and the grazers impact on woody plant seed dispersal. 
 
-# Objectives:
+## Objectives:
 In this project we will use a Landlab (Hobley et al., 2017) implementation of the Cellular Automaton Tree-Grass-Shrub Simulator (CATGraSS) (Zhou et al., 2013). CATGraSS simulates dynamics of establishment, growth, disturbance and loss of individual plant functional types across a spatial grid domain. CATGraSS has been used to study woody plant encroachment in relation to climate change in the southwest (Zhou et al., 2013; Caracciolo et al., 2016) and western Northwest (Caracciolo et al.,2017).
 
 Project domains can be in central New Mexico (e.g., Sevilleta National Wildlife Refuge) or Ochoco National Forest, Oregon using actual DEMs of no larger than 10m grid resolution. Alternatively, flat hypothetical surfaces with lower cell resolution can be used. Projects could aim to investigate the influence of climate change, atmospheric CO2 concentration, and human impact in past, present and future on vegetation organization. 
@@ -16,7 +16,7 @@ Projects will require developing historical and future climate input. Depending 
 
 A side project, especially when an actual watershed is used as input domain, can include running extreme storm events on you project domain and use runoff routing model options in Landlab. To crease spatial rainfall from radar precipitation data you can use Rainyday (http://her.cee.wisc.edu/projects/rainyday/) which creates stochastically generated storm patterns from radar data using a stochastic storm transposition (SST) method (Wright et al., 2017). 
 
-# Sample Data  : 
+## Sample Data  : 
 • **current climate**:
     - meteorogical data at Deepwell station, Sevilleta LTER - (http://sevlter.unm.edu/content/deep-well-meteorological-station-no-40)
 
@@ -27,7 +27,7 @@ A side project, especially when an actual watershed is used as input domain, can
 • **future climate**:
     - MACA data using Observatory for Gridded Hydrometeorology (OGH) - (https://climate.northwestknowledge.net/MACA/)
 
-# References: 
+## References: 
 
 • Abatzoglou J. T. (2011). Development of gridded surface meteorological data for ecological applications and modelling " International Journal of Climatology. doi: 10.1002/joc.3413. 
 
