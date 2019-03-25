@@ -2,6 +2,7 @@
 
 ## Collaborators on this Project:
 •	Project Lead - Erkan Istanbulluoglu
+
 •	Data Science Lead - Sai Nudurupati
 
 ## The Problem:
@@ -18,13 +19,17 @@ A side project, especially when an actual watershed is used as input domain, can
 
 ## Sample Data  : 
 • **current climate**:
+
     - meteorogical data at Deepwell station, Sevilleta LTER - (http://sevlter.unm.edu/content/deep-well-meteorological-station-no-40)
 
-• **past climate**: 
+• **past climate**:
+
     - paleo reconstructions from Hall et al. 2013
+    
     - CO2 concentrations from Rose et al. 2010
      
 • **future climate**:
+
     - MACA data using Observatory for Gridded Hydrometeorology (OGH) - (https://climate.northwestknowledge.net/MACA/)
 
 ## References: 
