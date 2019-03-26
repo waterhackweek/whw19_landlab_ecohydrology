@@ -1,12 +1,11 @@
-## Project Title: Studying the influence of climate on woody plant encroachment in semiarid areas of Western US.
+## Project Title: Climate change and ecohydrologic response using Landlab
 
 ## Collaborators on this Project:
-•	Project Lead - Erkan Istanbulluoglu
+•	Project Lead - Kaiwen Wang
 
 •	Data Science Lead - Sai Nudurupati
 
-Jeff Keck
-Kaiwen Wang
+
 
 ## The Problem:
 Semiarid ecosystems of the Western US have experienced a major change from grasslands to woody plants in the last 150 years. These include shifts in shrub dominance in the Southwest and changes in grasslands to western juniper in the Northwest US. A number of hypotheses proposed have related woody plant encroachment to climate change, introduced herbivore grazing, changes in grassland fire frequency and the grazers impact on woody plant seed dispersal. 
